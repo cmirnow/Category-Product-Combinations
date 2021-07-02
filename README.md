@@ -1,4 +1,4 @@
-# Category-Product-Combinations. Prestashop Module
+## Category-Product-Combinations. Prestashop Module
 
 [![Category-Product-Combinations. Prestashop Module](https://github.com/cmirnow/Category-Product-Combinations/blob/master/pic/categorycombinations.gif)](https://masterpro.ws/category-product-combinations-prestashop-module)
 
